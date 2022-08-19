@@ -45,7 +45,7 @@ export const Profile = () => {
               {userData.company && (
                 <li>
                   <Buildings size={18} />
-                  Rocketseat
+                  {userData.company}
                 </li>
               )}
               <li>
