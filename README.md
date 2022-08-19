@@ -12,4 +12,19 @@ Deploy feito através da vercel: [github-blog](https://github-blog-omega.vercel.
 - Phosphor-icons: ícones utilizados;
 - React-markdown: formatação das issues;
 
-Preview: ![imagem_2022-08-19_135216898](https://user-images.githubusercontent.com/102676411/185668816-c93aab9f-f39a-46ee-8e25-b5d49622bb67.png)
+# Previews
+
+- Desktop 
+
+
+![imagem_2022-08-19_135532026](https://user-images.githubusercontent.com/102676411/185669357-90a80fe7-3890-4b8b-abd9-6892942fdef6.png)
+
+
+- Mobile 
+
+
+
+
+
+![imagem_2022-08-19_135603526](https://user-images.githubusercontent.com/102676411/185669490-ed1ecc3e-cd5b-43f1-b4ac-1d240a8e86bb.png)
+
