@@ -17,7 +17,7 @@ export const Home = () => {
   const getPosts = useCallback(
     async (query: string = "") => {
         const response = await axios.get(
-          `https://api.github.com/search/issues?q=""%20no:label%20repo:${username}/${repoName}`
+          `https://api.github.com/search/issues?q=""%20label:published%20repo:${username}/${repoName}`
         );
   
         setPosts(response.data.items)
