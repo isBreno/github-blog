@@ -4,6 +4,7 @@ import Cover from "../../assets/Cover.svg";
 
 export const HeaderCover = styled.header`
   background: url(${Cover}) center center no-repeat;
+  background-color: #0B2033;
   background-size: cover;
   width: 100%;
   height: 300px;
