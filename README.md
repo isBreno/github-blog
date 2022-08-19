@@ -1,5 +1,6 @@
 ## Github Blog
-Um projeto feito seguindo o layout desenvolvido pela [Rocketseat](https://rocketseat.com). 
+Um projeto feito seguindo o layout desenvolvido pela [Rocketseat](https://rocketseat.com).
+
 Deploy feito através da vercel: [github-blog](https://github-blog-omega.vercel.app)
 
 # Ferramentas utilizadas
