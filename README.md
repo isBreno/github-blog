@@ -6,6 +6,7 @@ Um projeto feito seguindo o layout desenvolvido pela [Rocketseat](https://www.ro
 Deploy feito através da vercel: [github-blog](https://github-blog-omega.vercel.app)
 
 # Ferramentas utilizadas
+- Vite
 - React: para criar a interface;
 - Axios: consumir api;
 - Styled-components: estilização da interface;
