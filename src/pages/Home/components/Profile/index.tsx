@@ -50,7 +50,7 @@ export const Profile = () => {
               )}
               <li>
                 <Users size={18} />
-                {userData.followers}
+                {userData.followers} seguidores
               </li>
             </ul>
           </Styled.ProfileInfos>
