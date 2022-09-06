@@ -6,7 +6,6 @@ import { SearchBar } from './components/SearchBar/SearchBar';
 import { Card } from './components/Cards';
 import { Profile } from './components/Profile';
 import { IPost } from '../../types';
-import { Header } from '../../components/Header';
 
 const username = import.meta.env.VITE_GITHUB_USERNAME;
 const repoName = import.meta.env.VITE_GITHUB_REPONAME;

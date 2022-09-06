@@ -10,23 +10,30 @@ export const CardProfile = styled.div`
   border-radius: 4px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
   transform: translateY(-100px);
-  
+
   @media (max-width: 768px) {
     padding: 1rem;
     height: 160px;
-  }`;
+  }
+
+  @media (max-width: 640px) {
+    padding: 0.5rem;
+    height: 200px;
+  }
+`;
 
 export const ProfileAvatar = styled.div`
-  width: 180px;
-  display: flex;
+  display: block;
   align-items: center;
 
+
   img {
-    object-fit: contain;
-    width: 150px;
-    height: 150px;
+    object-fit: cover;
     border-radius: 10px;
-    margin-bottom: auto;
+    height: 160px;
+    margin-right: 20px;
+    width: 160px;
+
   }
 
   @media (max-width: 768px) {
